@@ -12,14 +12,14 @@ This software is foundation in which I will base my learning on all future knowl
 
 # Development Environment
 
-1. **Python** --Language
-2. **Visual Studio** --Coding environment
-3. **Google** --Research
+1. **Python** -- Language
+2. **Visual Studio** -- Coding environment
+3. **Google** -- Research
 
 Python was used as my coding language of use. It is simple and easy to understand.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Create Personal Software Portfolio](https://byui-cse.github.io/cse310-course/lesson01/01-prove_campus.html)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sh)
