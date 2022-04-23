@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+A quick demo preparing myself for future of learning new coding languages. Before I can learn more advanced syntax of other coding languages I must first understand how to print "Hello World".
 
-{Provide a description of your software}
+My software displays "Hello World" in the console.
 
-{Describe your purpose for creating this software.}
+This software is foundation in which I will base my learning on all future knowledge of programming an learning new coding languages. 
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -12,9 +12,11 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+1. **Python** --Language
+2. **Visual Studio** --Coding environment
+3. **Google** --Research
 
-{Describe the programming language that you used}
+Python was used as my coding language of use. It is simple and easy to understand.
 
 # Useful Websites
 
