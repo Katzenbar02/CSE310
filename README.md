@@ -12,8 +12,8 @@ This software is foundation in which I will base my learning on all future knowl
 
 # Development Environment
 
-[**Python**] -- Language
-[**VisualStudio**] -- Coding environment
+* **Python** -- Language
+[**Visual Studio** -- Coding environment
 [**Google**] -- Research
 
 Python was used as my coding language of use. It is simple and easy to understand.
